@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Questrial|Open Sans');
 *, *::before, *::after {
   /* box-sizing: border-box; */
- 
+  color:white;
   font-family: 'Questrial';
   transition: 0.2s;
 }
