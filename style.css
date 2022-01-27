@@ -6,6 +6,10 @@
   color:white;
 }
 
+#in-main{
+  
+}
+
 h3 {
   font-size: 5vh;
 }
@@ -26,6 +30,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
+  overflow: hidden;
 }
 
 
