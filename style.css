@@ -19,7 +19,7 @@ p {
 
 body {
   color:white;
-  /* background-color: rgb(85, 26, 43); */
+  transition: background-color 0.2s;
   background-color: rgb(32, 53, 81);
   padding: 0;
   margin: 0;
